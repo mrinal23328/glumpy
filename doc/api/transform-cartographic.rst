@@ -5,6 +5,8 @@
 Cartographic
 ============
 
+Transformations used for cartographic models.
+
 ..  * :any:`transform-conic-equal-area`      — Conic Equal Area
 ..  * :any:`transform-albers`                — Albers
 ..  * :any:`transform-azimuthal-equal-area`  — Azimuthal Equal Area
